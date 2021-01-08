@@ -1,0 +1,17 @@
+{
+  "name": "kollab_template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [],
+  "author": "Mirko Kiefer <mail@mirkokiefer.com>",
+  "license": "ISC"
+}
